@@ -55,7 +55,7 @@
     },
     {
       "config": "3 9 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi.js, tag=滴滴出行",
-      "addons": "https:\/\/raw.githubusercontent.com\/r0nn\/QXProfiles\/master\/rewrites\/didi_cookie.txt"
+      "addons": "https:\/\/raw.githubusercontent.com\/r0nn\/QXProfiles\/master\/rewrites\/didi_cookie.txt, tag=滴滴cookie"
     }
   ]
 }
