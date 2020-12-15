@@ -53,5 +53,9 @@
     {
       "config": "5 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_club_lottery.js, tag=摇京豆, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=false",
     },
+    {
+      "config": "3 9 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi.js, tag=滴滴出行",
+      "addons": "https:\/\/raw.githubusercontent.com\/r0nn\/QXProfiles\/master\/rewrites\/didi_cookie.txt"
+    }
   ]
 }
