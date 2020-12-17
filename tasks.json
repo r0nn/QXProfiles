@@ -9,6 +9,7 @@
     {
       "config": "0 10 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=false",
       "addons": "https:\/\/raw.githubusercontent.com\/r0nn\/QXProfiles\/master\/rewrites\/jd_cookie.txt, tag=京东cookie"
+    },
     {
       "config": "5 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/quanx/smzdm.js, tag=什么值得买",
       "addons": "https:\/\/raw.githubusercontent.com\/r0nn\/QXProfiles\/master\/rewrites\/smzdm_cookie.txt, tag=smzdm_cookie"
